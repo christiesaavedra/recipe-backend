@@ -9,3 +9,4 @@ wsgiref==0.1.2
 longerusername
 pillow
 dj_database_url
+psycopg2
