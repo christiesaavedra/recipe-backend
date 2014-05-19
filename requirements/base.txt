@@ -10,3 +10,4 @@ longerusername
 pillow
 dj_database_url
 psycopg2
+gunicorn
