@@ -6,3 +6,5 @@ djangorestframework==2.3.10
 pystache==0.5.3
 static==1.0.2
 wsgiref==0.1.2
+longerusername
+pillow
