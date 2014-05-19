@@ -2,9 +2,6 @@ import os
 PROJECT_PATH = os.path.abspath(os.path.dirname(__file__))
 # Django settings for project.
 
-import dj_database_url
-DATABASES['default'] = dj_database_url.config()
-
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework.authentication.TokenAuthentication',
