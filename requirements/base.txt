@@ -8,3 +8,4 @@ static==1.0.2
 wsgiref==0.1.2
 longerusername
 pillow
+dj_database_url
